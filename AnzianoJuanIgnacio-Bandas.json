@@ -64,7 +64,7 @@
       {
         "integrante": {
           "nombre": "Cliff Burton",
-          "instrumentos": [{ "instrumento": { "nombre": "bajo" } }],
+          "instrumentos": [{ "nombre": "bajo" }],
           "anio_nacimiento": 1962,
           "anio_muerte": 1986
         }
@@ -138,14 +138,14 @@
         "integrante": {
           "nombre": "Nicolás Ottavianelli",
           "instrumentos": [{ "nombre": "Teclado" }],
-          "anio_nacimiento": "1974"
+          "anio_nacimiento": 1974
         }
       },
       {
         "integrante": {
           "nombre": "Carlos 'Tody' Tapia",
           "instrumentos": [{ "nombre": "bajo" }],
-          "anio_nacimiento": "ambito privado"
+          "anio_nacimiento": 0
         }
       },
       {
@@ -167,7 +167,7 @@
   {
     "nombre": "Guns N' Roses",
     "anio_inicio": 1985,
-    "anio_fin": 1993,
+    "anio_fin": "actualidad",
     "integrantes": [
       {
         "integrante": {
