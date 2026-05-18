@@ -1,0 +1,160 @@
+[
+    {
+        "nombre": "Seru Giran",
+        "anio_inicio": 1979,
+        "anio_fin": 1988,
+        "integrantes":[
+            {
+                "integrante" : {
+                    "nombre" : "Charly García",
+                    "instrumentos" : [
+                       { "nombre"  : "teclados" },
+                       { "nombre"  : "guitarra" },
+                       { "nombre"  : "voz" }
+                    ],
+                    "anio_nacimiento" : 1952
+                }
+            },
+            {
+                "integrante" : {
+                    "nombre" : "David Lebon",
+                    "instrumentos" : [
+                        { "nombre"  : "guitarra" },
+                        { "nombre"  : "voz" }
+                    ],
+                    "anio_nacimiento" : 1951
+                }
+            },
+            {
+                "integrante" : {
+                    "nombre" : "Pedro Aznar",
+                    "instrumentos" : [
+                        { "nombre"  : "bajo" },
+                        { "nombre"  : "teclados" },
+                        { "nombre"  : "guitarra" },
+                        { "nombre"  : "voz" }
+                    ],
+                    "anio_nacimiento" : 1959
+                }
+            },
+            {
+                "integrante" : {
+                    "nombre" : "Oscar Moro",
+                    "instrumentos" : [
+                        {"instrumento": { "nombre"  : "bateria" }}
+                    ],
+                    "anio_nacimiento" : 1950
+                }
+            }
+        ],
+        "exitos" : [
+            "Seminare",
+            "La grasa de las capitales",
+            "Viernes 3AM",
+            "Jose Mercado"
+        ],
+        "estilos" : [
+            "Rock", 
+            "Pop", 
+            "Blues", 
+            "Folk", 
+            "Música Progresiva"
+        ]
+    },
+    {
+        "nombre": "Patricio Rey y sus redonditos de ricota",
+        "anio_inicio": 1978,
+        "anio_fin": 1994,
+        "integrantes":
+        [
+            {
+                "integrante" : {
+                    "nombre" : "Indio Solari",
+                    "instrumentos" : [
+                        {"instrumento": { "nombre"  : "voz" }}
+                    ],
+                    "anio_nacimiento" : 1954
+                }
+            },
+            {
+                "integrante" : {
+                    "nombre" : "Skay",
+                    "instrumentos" : [
+                        {"instrumento": { "nombre"  : "guitarra" }}
+                    ],
+                    "anio_nacimiento" : 1953
+                }
+            },
+            {
+                "integrante" : {
+                    "nombre" : "Semilla",
+                    "instrumentos" : [
+                        {"instrumento": { "nombre"  : "bajo" }}
+                    ],
+                    "anio_nacimiento" : 1957
+                }
+            },
+            {
+                "integrante" : {
+                    "nombre" : "El batero",
+                    "instrumentos" : [
+                        {"instrumento": { "nombre"  : "bateria" }}
+                    ],
+                    "anio_nacimiento" : 1950
+                }
+            }
+        ]
+    },
+    {
+        "nombre": "The Beatles",
+        "anio_inicio": 1962,
+        "anio_fin": 1969,
+        "integrantes":
+        [
+            {
+                "integrante" : {
+                    "nombre" : "John Lennon",
+                    "instrumentos" : [
+                        {"instrumento": { "nombre"  : "voz" }},
+                        {"instrumento": { "nombre"  : "guitarra" }},
+                        {"instrumento": { "nombre"  : "teclados" }}
+                    ],
+                    "anio_nacimiento" : 1940
+                }
+            },
+            {
+                "integrante" : {
+                    "nombre" : "Paul McCartney",
+                    "instrumentos" : [
+                        {"instrumento": { "nombre"  : "bajo" }},
+                        {"instrumento": { "nombre"  : "guitarra" }},
+                        {"instrumento": { "nombre"  : "voz" }},
+                        {"instrumento": { "nombre"  : "tclados" }}
+                    ],
+                    "anio_nacimiento" : 1942
+                }
+            },
+            {
+                "integrante" : {
+                    "nombre" : "George Harrison",
+                    "instrumentos" : [
+                        {"instrumento": { "nombre"  : "guitarra" }},
+                        {"instrumento": { "nombre"  : "voz" }}
+                    ],
+                    "anio_nacimiento" : 1942
+                }
+            },
+            {
+                "integrante" : {
+                    "nombre" : "Ringo Star",
+                    "instrumentos" : [
+                        {"instrumento": { "nombre"  : "bateria" }},
+                        {"instrumento": { "nombre"  : "teclados" }},
+                        {"instrumento": { "nombre"  : "voz" }}
+                    ],
+                    "anio_nacimiento" : 1940
+                }
+            }
+        ]
+    }
+]

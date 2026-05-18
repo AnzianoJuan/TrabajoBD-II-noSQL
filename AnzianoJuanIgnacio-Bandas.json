@@ -1,0 +1,304 @@
+[
+  {
+    "nombre": "Callejeros",
+    "anio_inicio": 1995,
+    "anio_fin": 2010,
+    "integrantes": [
+      {
+        "integrante": {
+          "nombre": "Patricio Santos Fontanet",
+          "instrumentos": [{ "nombre": "guitarra" }, { "nombre": "voz" }],
+          "anio_nacimiento": 1979
+        }
+      },
+      {
+        "integrante": {
+          "nombre": "Eduardo Vázquez",
+          "instrumentos": [{ "nombre": "Batería" }],
+          "anio_nacimiento": 1975
+        }
+      },
+      {
+        "integrante": {
+          "nombre": "Maximiliano Djerfy",
+          "instrumentos": [{ "nombre": "bajo" }],
+          "anio_nacimiento": 1974
+        }
+      },
+      {
+        "integrante": {
+          "nombre": "Crhistian Torrejon",
+          "instrumentos": [{ "nombre": "Guitarra" }],
+          "anio_nacimiento": 1972
+        }
+      }
+    ],
+    "exitos": [
+      "Prohibido",
+      "Rocanroles sin destino",
+      "Jugando",
+      "9 de Julio",
+      "Tan perfecto que asusta"
+    ],
+    "estilos": ["Rock", "Arte Urbano"]
+  },
+  {
+    "nombre": "Metallica",
+    "anio_inicio": 1981,
+    "anio_fin": "actualidad",
+    "integrantes": [
+      {
+        "integrante": {
+          "nombre": "James Hetfield",
+          "instrumentos": [{ "nombre": "voz" }, { "nombre": "guitarra" }],
+          "anio_nacimiento": 1963
+        }
+      },
+      {
+        "integrante": {
+          "nombre": "Kirk Hammet",
+          "instrumentos": [{ "instrumento": { "nombre": "guitarra lider" } }],
+          "anio_nacimiento": 1962
+        }
+      },
+      {
+        "integrante": {
+          "nombre": "Cliff Burton",
+          "instrumentos": [{ "instrumento": { "nombre": "bajo" } }],
+          "anio_nacimiento": 1962,
+          "anio_muerte": 1986
+        }
+      },
+      {
+        "integrante": {
+          "nombre": "Lars Ulrich",
+          "instrumentos": [{ "instrumento": { "nombre": "bateria" } }],
+          "anio_nacimiento": 1963
+        }
+      }
+    ],
+    "exitos": ["Seek And Destroy", "Wherever om may Room", "One", "Whiplash"],
+    "estilos": ["Rock", "thrash metal", "speed metal", "heavy metal"]
+  },
+  {
+    "nombre": "La Renga",
+    "anio_inicio": 1988,
+    "anio_fin": "Actualidad",
+    "integrantes": [
+      {
+        "integrante": {
+          "nombre": "Gustavo 'Chizzo' Nápoli",
+          "instrumentos": [{ "nombre": "voz" }, { "nombre": "guitarra" }],
+          "anio_nacimiento": 1967
+        }
+      },
+      {
+        "integrante": {
+          "nombre": "Gabriel 'Tete' Iglesias",
+          "instrumentos": [{ "nombre": "bajo" }],
+          "anio_nacimiento": 1963
+        }
+      },
+      {
+        "integrante": {
+          "nombre": "Gabriel 'Tanque' García",
+          "instrumentos": [{ "nombre": "Bateria" }],
+          "anio_nacimiento": 1963
+        }
+      }
+    ],
+    "exitos": [
+      "Balada del diablo y la muerte",
+      "El final es donde partí",
+      "El revelde",
+      "La razon que te demora"
+    ],
+    "estilos": ["Hard Rock", "blues rock"]
+  },
+  {
+    "nombre": "Turf",
+    "anio_inicio": 1995,
+    "anio_fin": "actualidad",
+    "integrantes": [
+      {
+        "integrante": {
+          "nombre": "joaquin levinton",
+          "instrumentos": [{ "nombre": "voz" }, { "nombre": "guitarra" }],
+          "anio_nacimiento": 1975
+        }
+      },
+      {
+        "integrante": {
+          "nombre": "Leandro Lopatin",
+          "instrumentos": [{ "nombre": "guitarra" }],
+          "anio_nacimiento": 1973
+        }
+      },
+      {
+        "integrante": {
+          "nombre": "Nicolás Ottavianelli",
+          "instrumentos": [{ "nombre": "Teclado" }],
+          "anio_nacimiento": "1974"
+        }
+      },
+      {
+        "integrante": {
+          "nombre": "Carlos 'Tody' Tapia",
+          "instrumentos": [{ "nombre": "bajo" }],
+          "anio_nacimiento": "ambito privado"
+        }
+      },
+      {
+        "integrante": {
+          "nombre": "Fernando Caloia",
+          "instrumentos": [{ "nombre": "bateria" }],
+          "anio_nacimiento": 1975
+        }
+      }
+    ],
+    "exitos": [
+      "Pasos al costado",
+      "Magia blanca",
+      "loco un poco",
+      "Yo no me quiero casar, y Ud.?"
+    ],
+    "estilos": ["Rock clasico", "Indie Pop", "BritPop"]
+  },
+  {
+    "nombre": "Guns N' Roses",
+    "anio_inicio": 1985,
+    "anio_fin": 1993,
+    "integrantes": [
+      {
+        "integrante": {
+          "nombre": "Axel Rose",
+          "instrumentos": [{ "nombre": "voz" }, { "nombre": "piano" }],
+          "anio_nacimiento": 1962
+        }
+      },
+      {
+        "integrante": {
+          "nombre": "Slash",
+          "instrumentos": [{ "nombre": "guitarra" }],
+          "anio_nacimiento": 1965
+        }
+      },
+      {
+        "integrante": {
+          "nombre": "Izzy Stradlin",
+          "instrumentos": [{ "nombre": "Guitarra ritmica" }],
+          "anio_nacimiento": 1962
+        }
+      },
+      {
+        "integrante": {
+          "nombre": "Duff McKagan",
+          "instrumentos": [{ "nombre": "Bajo electrico" }],
+          "anio_nacimiento": 1964
+        }
+      },
+      {
+        "integrante": {
+          "nombre": "Steven Adler",
+          "instrumentos": [{ "nombre": "bateria" }],
+          "anio_nacimiento": 1965
+        }
+      }
+    ],
+    "exitos": [
+      "Sweet Child O' Mine",
+      "November Rain",
+      "Knockin' on Heaven's Door"
+    ],
+    "estilos": ["Hard Rock", "heavy metal", "punk", "blues"]
+  },
+  {
+    "nombre": "Black Sabbath",
+    "anio_inicio": 1968,
+    "anio_fin": 2025,
+    "integrantes": [
+      {
+        "integrante": {
+          "nombre": "Ozzy Ousbourne",
+          "instrumentos": [{ "nombre": "voz" }],
+          "anio_nacimiento": 1948,
+          "anio_muerte": 2025
+        }
+      },
+      {
+        "integrante": {
+          "nombre": "Tony lommi",
+          "instrumentos": [{ "nombre": "guitarra" }],
+          "anio_nacimiento": 1948
+        }
+      },
+      {
+        "integrante": {
+          "nombre": "Bill Ward",
+          "instrumentos": [{ "nombre": "Bateria" }],
+          "anio_nacimiento": 1948
+        }
+      },
+      {
+        "integrante": {
+          "nombre": "Geezer Butler",
+          "instrumentos": [{ "nombre": "bajo electrico" }],
+          "anio_nacimiento": 1949
+        }
+      }
+    ],
+    "exitos": [
+      "Paranoid",
+      "War Pigs",
+      "Iron man",
+      "Changes",
+      "Heaven and Hell"
+    ],
+    "estilos": ["heavy metal", "Doom metal", "blues rock", "Hard Rock"]
+  },
+  {
+    "nombre": "Red Hot Chili Peppers",
+    "anio_inicio": 1983,
+    "anio_fin": "Actualidad",
+    "integrantes": [
+      {
+        "integrante": {
+          "nombre": "Anthony Kiedis",
+          "instrumentos": [{ "nombre": "Voz" }],
+          "anio_nacimiento": 1962
+        }
+      },
+      {
+        "integrante": {
+          "nombre": "Hillel Slovak",
+          "instrumentos": [{ "nombre": "guitarra lider" }],
+          "anio_nacimiento": 1962,
+          "anio_muerte": 1988
+        }
+      },
+      {
+        "integrante": {
+          "nombre": "Flea",
+          "instrumentos": [{ "nombre": "bajo electrico" }],
+          "anio_nacimiento": 1962
+        }
+      },
+      {
+        "integrante": {
+          "nombre": "Chad Smith",
+          "instrumentos": [{ "nombre": "bateria" }],
+          "anio_nacimiento": 1961
+        }
+      }
+    ],
+    "exitos": [
+      "Can't  Stop",
+      "Californication",
+      "Otherside",
+      "Scar Tissue",
+      "Snow",
+      "By the Way"
+    ],
+    "estilos": ["Funk", "Punk", "Rock", "Pop Rock"]
+  }
+]
